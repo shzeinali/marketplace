@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Marketplace</string>
+    <string name="title_category">Category</string>
+    <string name="title_orders">Orders</string>
+    <string name="title_product">Product</string>
+    <string name="title_map">Map</string>
+    <string name="title_order">Order</string>
+
+    <string name="buy">Buy it !</string>
+    <string name="submit">Submit !</string>
+
+    <string name="location_permission_denied">location_permission_denied</string>
+    <string name="permission_required_toast">permission_required_toast</string>
+    <string name="permission_rationale_location">permission_rationale_location</string>
+</resources>
